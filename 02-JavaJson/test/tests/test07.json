@@ -1,0 +1,31 @@
+{
+    "numero_de_permis": "A0001",
+    "cycle": "2013-2016",
+    "ordre": "géologues",
+    "activites": [
+        {
+            "description": "Cours sur la déontologie",
+            "categorie": "cours",
+            "heures": 55,
+            "date": "2014-03-20"
+        },
+        {
+            "description": "Rédaction pour le magazine Architecture moderne",
+            "categorie": "rédaction professionnelle",
+            "heures": 10,
+            "date": "2014-10-22"
+        },
+        {
+            "description": "Recherche sur thèmes variés",
+            "categorie": "projet de recherche",
+            "heures": 3,
+            "date": "2014-10-22"
+        },
+        {
+            "description": "Discussion sur thèmes variés",
+            "categorie": "groupe de discussion",
+            "heures": 1,
+            "date": "2010-10-22"
+        }
+    ]
+}

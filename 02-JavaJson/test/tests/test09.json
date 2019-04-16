@@ -1,0 +1,25 @@
+{
+    "numero_de_permis": "A0001",
+    "cycle": "2012-2016",
+    "ordre": "psychologues",
+    "activites": [
+        {
+            "description": "Cours sur la déontologie",
+            "categorie": "cours",
+            "heures": 23,
+            "date": "2014-03-20"
+        },
+        {
+            "description": "Rédaction pour le magazine Architecture moderne",
+            "categorie": "rédaction professionnelle",
+            "heures": 15,
+            "date": "2014-10-22"
+        },
+        {
+            "description": "Projet de recherche et développement",
+            "categorie": "projet de recherche",
+            "heures": 15,
+            "date": "2014-10-22"
+        }
+    ]
+}

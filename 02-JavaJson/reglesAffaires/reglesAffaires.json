@@ -1,0 +1,25 @@
+{
+	"ordres_professionnels": [{
+		"ordre_professionnel": "architectes",
+		"dossier": "architecte",
+		"cycles": [{
+			"cycle": "2010-2012"
+		}, {
+			"cycle": "2012-2014"
+		}, {
+			"cycle": "2014-2016"
+		}]
+	}, {
+		"ordre_professionnel": "géologues",
+		"dossier": "geologue",
+		"cycles": [{
+			"cycle": "2013-2016"
+		}]
+	}, {
+		"ordre_professionnel": "psychologues",
+		"dossier": "psychologue",
+		"cycles": [{
+			"cycle": "2012-2016"
+		}]
+	}]
+}

@@ -1,0 +1,32 @@
+{
+    "numero_de_permis": "A0001",
+    "cycle": "2014-2016",
+    "ordre": "architectes",
+    "heures_transferees_du_cycle_precedent": 2,
+    "activites": [
+        {
+            "description": "Cours sur la déontologie",
+            "categorie": "cours",
+            "heures": 12,
+            "date": "2015-03-20"
+        },
+        {
+            "description": "Rédaction pour le magazine Architecture moderne",
+            "categorie": "rédaction professionnelle",
+            "heures": 15,
+            "date": "2015-10-22"
+        },
+        {
+            "description": "Recherche pour le magazine Architecture moderne",
+            "categorie": "projet de recherche",
+            "heures": 15,
+            "date": "2015-10-22"
+        },
+        {
+            "description": "Présentation pour le magazine Architecture moderne",
+            "categorie": "présentation",
+            "heures": 15,
+            "date": "2015-10-22"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "ordre":"psychologues",
+    "cycle": "2012-2012",
+    "debut": "2012-04-01",
+    "fin": "2016-04-01",
+    "permi":"[0-9]{4}",
+    "heures_totales": 40,
+    "heures_transferables": 7,
+    "activites_reconnues":"cours, atelier, colloque, séminaire, conférence, lecture dirigée, présentation, groupe de discussion, projet de recherche, rédaction professionnelle",
+    "maximums": [{
+        "activites":"présentation, projet de recherche",
+        "max": 23
+    },{
+        "activites":"groupe de discussion, rédaction professionnelle",
+        "max": 17
+    }],
+    "minimums":[{
+        "activites":"cours,atelier,séminaire,colloque,conférence,lecture dirigée,heuresTransferables",
+        "min": 17
+    }]
+}
