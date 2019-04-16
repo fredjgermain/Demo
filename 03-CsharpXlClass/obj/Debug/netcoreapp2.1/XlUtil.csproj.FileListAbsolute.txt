@@ -1,0 +1,11 @@
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\bin\Debug\netcoreapp2.1\XlUtil.deps.json
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\bin\Debug\netcoreapp2.1\XlUtil.runtimeconfig.json
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\bin\Debug\netcoreapp2.1\XlUtil.runtimeconfig.dev.json
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\bin\Debug\netcoreapp2.1\XlUtil.dll
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\obj\Debug\netcoreapp2.1\XlUtil.csproj.CoreCompileInputs.cache
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\obj\Debug\netcoreapp2.1\XlUtil.AssemblyInfoInputs.cache
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\obj\Debug\netcoreapp2.1\XlUtil.AssemblyInfo.cs
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\obj\Debug\netcoreapp2.1\XlUtil.csprojAssemblyReference.cache
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\bin\Debug\netcoreapp2.1\XlUtil.pdb
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\obj\Debug\netcoreapp2.1\XlUtil.dll
+D:\01-Projects\01-ProjectMedia\01-Tourjman\01-Project\01-Prototype_v01\Prototype_v01\XlUtil\obj\Debug\netcoreapp2.1\XlUtil.pdb
