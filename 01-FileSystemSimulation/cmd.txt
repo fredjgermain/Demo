@@ -1,0 +1,14 @@
+creation_repertoire /main
+creation_repertoire /main/a1
+creation_repertoire /main/a1/b1/c1
+creation_repertoire /main/a1/b1
+creation_repertoire /main/a1/b1/c1
+creation_fichier /main/a1/b1/c1/fichier1.txt 0123456789
+creation_fichier /main/a1/b1/c1/fichier2.txt Cette chaine est suffisamment longue pour avoir besoin de plusieurs blocs.
+creation_fichier /main/a1/fichier3.txt Cette chaine est suffisamment longue pour avoir besoin de plusieurs blocs.
+creation_fichier /main/a1/b1/c1/fichier4.txt Cette chaine est suffisamment longue pour avoir besoin de plusieurs blocs.
+creation_fichier /main/a1/b1/c1/fichier5.txt Cette chaine est suffisamment longue pour avoir besoin de plusieurs blocs.
+creation_repertoire /main/a1/b1/c2
+creation_fichier /main/a1/b1/c2/fichier1.txt Cette chaine est suffisamment longue pour avoir besoin de plusieurs blocs.
+creation_fichier /main/a1/b1/c2/fichier2.txt Cette chaine est suffisamment longue pour avoir besoin de plusieurs blocs.
+creation_fichierA /main/a1/b1/c2/fichier3.txt
