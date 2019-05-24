@@ -1,0 +1,11 @@
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\bin\Debug\netcoreapp2.1\BagStructure.deps.json
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\bin\Debug\netcoreapp2.1\BagStructure.runtimeconfig.json
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\bin\Debug\netcoreapp2.1\BagStructure.runtimeconfig.dev.json
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\bin\Debug\netcoreapp2.1\BagStructure.dll
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\bin\Debug\netcoreapp2.1\BagStructure.pdb
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\obj\Debug\netcoreapp2.1\BagStructure.csprojAssemblyReference.cache
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\obj\Debug\netcoreapp2.1\BagStructure.csproj.CoreCompileInputs.cache
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\obj\Debug\netcoreapp2.1\BagStructure.AssemblyInfoInputs.cache
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\obj\Debug\netcoreapp2.1\BagStructure.AssemblyInfo.cs
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\obj\Debug\netcoreapp2.1\BagStructure.dll
+D:\01-Projects\01-ProjectMedia\00-AbstractDataStructure\01-prog\BagStructure\BagStructure\obj\Debug\netcoreapp2.1\BagStructure.pdb

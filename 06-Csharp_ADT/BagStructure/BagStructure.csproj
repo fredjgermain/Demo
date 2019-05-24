@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Iter.cs" />
+    <Compile Remove="Iter_back.cs" />
+    <Compile Remove="Node.cs" />
+    <Compile Remove="Node_back.cs" />
+  </ItemGroup>
+
+</Project>
