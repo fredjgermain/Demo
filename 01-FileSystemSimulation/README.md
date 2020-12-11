@@ -1,9 +1,7 @@
-# FILE SYSTEM SIMULATION
-
+# File system simulation
 
 ## Summary
 This project simulates a file systems which can *create/delete/write/read* simulated files, and *create/delete* simulated directories. Simulated files and directories are not created as "real" files or directories. Instead, this program program execution generate a series of txt files keeping track of information relative to the simulated files and directories as would a files system keeping track of files and directories and their associated memory space. 
-
 
 ## Usage
 The program launches using the following command line 
@@ -26,7 +24,6 @@ The following command creates in directory */main/a1/b1/c1* a simulated file nam
 creation_fichier /main/a1/b1/c1/fichier1.txt 0123456789
 ```
 
-
 ### Tracking files
 A proper execution of *fs.exe* will generate a series of files;
 
@@ -39,7 +36,6 @@ A proper execution of *fs.exe* will generate a series of files;
 - *ino.txt* keeps track of simulated inodes abstract data structure storing disk block allocation to simulated files. 
 
 After program execution, the content assigned to simulated files can be read in *mem.txt*. 
-
 
 ### Test
 Create a modified copy of *cmd.txt* named *cmd2.txt*. Line 6 is modified from 
@@ -55,4 +51,3 @@ Then re-executing *fs.exe* with the modified *cmd2.txt*
 fs.exe cmd2.txt
 ```
 Now reopen *mem.txt*. The simulated memory block that contained *0123456789* will be replaced by *this is a test*. While modifying *cmd.txt* be careful to preserve the file structure as to not disrupt the correct parsing of its content by *fs.exe*. 
-
