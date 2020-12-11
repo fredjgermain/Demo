@@ -38,4 +38,21 @@ A proper execution of *fs.exe* will generate a series of files;
 
 - *ino.txt* keeps track of simulated inodes abstract data structure storing disk block allocation to simulated files. 
 
-After program execution, the content assigned to simulated files can be read in *mem.txt*. Modifying content of *cmd.txt* and reexecuting the program will rewrite content corresponding memory block. 
+After program execution, the content assigned to simulated files can be read in *mem.txt*. 
+
+
+### Test
+Create a modified copy of *cmd.txt* named *cmd2.txt*. Line 6 is modified from 
+```
+creation_fichier /main/a1/b1/c1/fichier1.txt *0123456789*
+```
+to 
+```
+creation_fichier /main/a1/b1/c1/fichier1.txt *this is a test*
+```
+Then re-executing *fs.exe* with the modified *cmd2.txt* 
+```
+fs.exe cmd2.txt
+```
+Now reopen *mem.txt*. The simulated memory block that contained *0123456789* will be replaced by *this is a test*. While modifying *cmd.txt* be careful to preserve the file structure as to not disrupt the correct parsing of its content by *fs.exe*. 
+
