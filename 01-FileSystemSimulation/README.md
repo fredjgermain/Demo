@@ -8,11 +8,11 @@ This project simulates a file systems which can *create/delete/write/read* simul
 ## Usage
 The program launches using the following command line 
 ```
-fs cmd.txt
+fs.exe cmd.txt
 ```
 or
 ```
-fs cmd2.txt
+fs.exe cmd2.txt
 ```
 
 *cmd.txt* or *cmd2.txt* feed a list of commands to *fs.exe*. Example: 
