@@ -16,7 +16,7 @@ fs.exe cmd2.txt
 ```
 
 ### Commands file
-*cmd.txt* or *cmd2.txt* feed a list of commands to *fs.exe*. The following command create a simulated directory named *main* in the root directory. 
+*cmd.txt* or *cmd2.txt* feed a list of commands to *fs.exe*. The following command create a simulated directory named */main* in the root directory. 
 ```
 creation_repertoire /main
 ```
