@@ -26,9 +26,10 @@ creation_fichier /main/a1/b1/c1/fichier1.txt 0123456789
 ```
 This command create a simulated file named *fichier1.txt* and write *0123456789* as its content.  
 
--------
+#### Tracking files
 A proper execution of *fs.exe* will generate a series of files;
-*mem.txt* keeps tracks of simulated files content. Memory space is divided in block of 16 bytes to memorise files content. Unused bytes withing a block will be marked as *null* character in *mem.txt*. 
+
+- *mem.txt* keeps tracks of simulated files content. Memory space is divided in block of 16 bytes to memorise files content. Unused bytes withing a block will be marked as *null* character in *mem.txt*. 
 
 - *fList.txt* keeps tracks of simulated files and directory structures. Each lines tracks either a directory or file and its emplacement. 
 
