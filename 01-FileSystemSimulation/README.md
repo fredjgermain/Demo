@@ -27,13 +27,13 @@ creation_fichier /main/a1/b1/c1/fichier1.txt 0123456789
 This command create a simulated file named *fichier1.txt* and write *0123456789* as its content.  
 
 
-A proper execution of fs will generate a series of files;
+A proper execution of *fs.exe* will generate a series of files;
 *mem.txt* keeps tracks of simulated files content. Memory space is divided in block of 16 bytes to memorise files content. Unused bytes withing a block will be marked as *null* character in *mem.txt*. 
 
-*fList.txt* keeps tracks of simulated files and directory structures. Each lines tracks either a directory or file and its emplacement. 
+- *fList.txt* keeps tracks of simulated files and directory structures. Each lines tracks either a directory or file and its emplacement. 
 
-*bitTab.txt* keeps tracks of free memory blocks (marked as 0) and used memory blocks (marked as 1) in the simulated memory space. 
+- *bitTab.txt* keeps tracks of free memory blocks (marked as 0) and used memory blocks (marked as 1) in the simulated memory space. 
 
-*ino.txt* keeps tracks of simulated inodes abstract data structure storing disk block allocation to simulated files. 
+- *ino.txt* keeps tracks of simulated inodes abstract data structure storing disk block allocation to simulated files. 
 
-After program execution, the content assigned to simulated files can be read in *mem.txt*. 
+After program execution, the content assigned to simulated files can be read in *mem.txt*. Modifying content of *cmd.txt* and reexecuting the program will rewrite content corresponding memory block. 
