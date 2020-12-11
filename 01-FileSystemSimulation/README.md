@@ -50,7 +50,7 @@ to
 ```
 creation_fichier /main/a1/b1/c1/fichier1.txt this is a test
 ```
-Then re-executing *fs.exe* with the modified cmd2.txt
+Then re-executing *fs.exe* with the modified *cmd2.txt*
 ```
 fs.exe cmd2.txt
 ```
