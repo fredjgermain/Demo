@@ -1,0 +1,14 @@
+creation_repertoire /main
+creation_repertoire /main/a1
+creation_repertoire /main/a1/b1/c1
+creation_repertoire /main/a1/b1
+creation_repertoire /main/a1/b1/c1
+creation_fichier /main/a1/b1/c1/fichier1.txt 0123456789
+creation_fichier /main/a1/b1/c1/fichier2.txt voici le contenu du fichier 2.
+creation_fichier /main/a1/fichier3.txt le fichier 3 contient du lorem ipsum ... 
+creation_fichier /main/a1/b1/c1/fichier4.txt My favorite SCP is SCP-610 - The flesh that hate. 
+creation_fichier /main/a1/b1/c1/fichier5.txt SCP-610 is keter class. 
+creation_repertoire /main/a1/b1/c2
+creation_fichier /main/a1/b1/c2/fichier1.txt Body horror is pretty scary. 
+creation_fichier /main/a1/b1/c2/fichier2.txt I also like SCP-049 - The plague doctor. 
+creation_fichierA /main/a1/b1/c2/fichier3.txt His cure is not as effective as he says. 
