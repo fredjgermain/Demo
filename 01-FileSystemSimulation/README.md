@@ -6,12 +6,16 @@ This project simulates a file systems which can *create/delete/write/read* simul
 
 
 ## Usage
-The program launches using 
+The program launches using the following command line 
 ```
 fs cmd.txt
 ```
+or
+```
+fs cmd2.txt
+```
 
-*cmd.txt* feeds a list of commands to *fs.exe*. Example: 
+*cmd.txt* or *cmd2.txt* feed a list of commands to *fs.exe*. Example: 
 
 ```
 creation_repertoire /main
@@ -32,3 +36,4 @@ A proper execution of fs will generate a series of files;
 
 *ino.txt* keeps tracks of simulated inodes abstract data structure storing disk block allocation to simulated files. 
 
+After program execution, the content assigned to simulated files can be read in *mem.txt*. 
