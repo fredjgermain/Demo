@@ -44,13 +44,13 @@ After program execution, the content assigned to simulated files can be read in 
 ### Test
 Create a modified copy of *cmd.txt* named *cmd2.txt*. Line 6 is modified from 
 ```
-creation_fichier /main/a1/b1/c1/fichier1.txt *0123456789*
+creation_fichier /main/a1/b1/c1/fichier1.txt 0123456789
 ```
 to 
 ```
-creation_fichier /main/a1/b1/c1/fichier1.txt *this is a test*
+creation_fichier /main/a1/b1/c1/fichier1.txt this is a test
 ```
-Then re-executing *fs.exe* with the modified *cmd2.txt* 
+Then re-executing *fs.exe* with the modified cmd2.txt
 ```
 fs.exe cmd2.txt
 ```
