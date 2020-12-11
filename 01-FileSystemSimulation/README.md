@@ -16,12 +16,12 @@ fs.exe cmd2.txt
 ```
 
 ### Commands file
-*cmd.txt* or *cmd2.txt* feed a list of commands to *fs.exe*. The following command create a simulated directory named *main*. 
+*cmd.txt* or *cmd2.txt* feed a list of commands to *fs.exe*. The following command create a simulated directory named *main* in the root directory. 
 ```
 creation_repertoire /main
 ```
 
-The following command create a simulated file named *fichier1.txt* and write *0123456789* as its content.  
+The following command creates in directory */main/a1/b1/c1* a simulated file named *fichier1.txt* and write *0123456789* as its content.  
 ```
 creation_fichier /main/a1/b1/c1/fichier1.txt 0123456789
 ```
